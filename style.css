@@ -6,8 +6,10 @@
 }
 
 .headertop {
-    height: 80px;
+    height: 100px;
     background-color: red;
+    font-family: 'Shadows Into Light Two', cursive;
+    text-align: center;
 }
 
 .headerbottom {
@@ -28,6 +30,7 @@
     width: 60%;
     float:left;
     background-color: green;
+    font-family: 'Fredoka One', cursive;
     
 }
 
